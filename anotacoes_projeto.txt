@@ -1,0 +1,28 @@
+monitorar as atividades dos clientes:
+coletar chamados de projetos de clientes
+
+dashboard:
+tickets criados por clientes e atendidos por setores apropriados. O projeto/protocolo deve ser enviado novamente ao cliente. Podem ser criados também por colaboradores da empresa para manutenções/pedidos dentro da empresa.
+
+dados do dashboard:
+-quantidade de chamados abertos para o departamento
+-status dos chamados
+-fluxo de chamados, não necessariamente os fechados, mas devem aparecer em buscas
+-quantos chamados finalizados no dia
+
+problemas atuais:
+-não são orientados a chamados
+-existe a dificuldade de guardar informações e logs dos chamados
+
+sistema de auto indicação, cadastro restrito. apenas administradores podem cadastrar novos usuários. 
+
+sla , acordo de nível de serviços. da um prazo para que o chamado seja atendido de acordo com a classificação do chamado. 
+
+indentidade visual:
+nao ha fixa, pode ser utilizada a criatividade no design. logo azul.
+
+objtivo principal: rp web: planejamento empresarial, melhorar gerenciamento da empresa.
+
+cada departamento com seu proprio dashboard
+
+criar cadastros de tipos clientes e limitar a vizualicacao.
