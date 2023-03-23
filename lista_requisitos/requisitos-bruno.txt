@@ -13,7 +13,12 @@
         7-> Deve haver uma linha do tempo indicando em que fase de resolução o tickt está (Na área de abertura de tickets).
         8-> deve haver uma opção de encaminhamento de ticket para fila de outro departamento.
         9-> Deve haver uma opção para clonagem de tickets (restrita a área de resolvedor).
-        10-> O sistema deve automáticamente retirar das respectivas listas os tickets resulvidos. 
+        10-> O sistema deve automáticamente retirar das respectivas listas os tickets resolvidos. 
 
+    REQUISITOS NÃO FUNCIONAIS
 
-
+        1-> Capacidade para 7 usuários em sumultaânieo.
+        2-> Intuiividade na interface.
+        3-> Design respomsivo.
+        4-> Baixo tempo de loading.
+    
