@@ -32,5 +32,5 @@ IT-1: Usar bpmn para uma melhor visualização do gerenciamento dos processos, d
 Manutenibilidade:
 MN-1: Armazenar os dados dos processos numa planilha excel, pois estão acostumados com o processo manual. (requisito normal)
 Portabilidade:
-PR-1: Usar alguma biblioteca para ser responsivo para mobile.
+PR-1: Usar alguma biblioteca para ser responsivo para mobile. (requisito esperado)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
