@@ -1,0 +1,12 @@
+Requisitos do sistema de chamadas para a empresa AS3 engenharias:
+
+-O sistema deve ter um ambiente para que o cliente abra um chamado para a compra de um produto
+-Uma sla deve ser definida para cada tipo de chamado
+-Chamados devem ser enviados para um consultor da equipe de ti
+-Deve-se usar uma biblioteca para que o sistema seja responsivo para mobile
+-O sistema não deve ter integração com qualquer outro sistema existente
+-O sistema deve ser accessível para deficientes visuais
+-Os chamados devem poder ser reabertos
+-O número de usuários simultâneos deve ser 7 pessoas
+-O sistema deve classificar cada chamado, como aberto, pendente ou expirado.
+
