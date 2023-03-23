@@ -3,7 +3,7 @@ Missão: Criar um sistema ERP web que possua dashboards de atendimentos de chama
 
 REQUISITOS FUNCIONAIS
 
-RF-1: O sistema deve definir SLA para cada tipo de chamado. (requisito normal)
+RF-1: O sistema deve definir SLA(documento que define as diretrizes operacionais, normas, procedimentos e métricas que devem ser seguidas por sua equipe de suporte, a fim de garantir o nível de satisfação dos clientes ideal) para cada tipo de chamado. (requisito normal)
 RF-2: O sistema deve apresentar uma área de avaliação do serviço. (requisito normal)
 RF-3: O sistema deve permitir que o chamado seja alterado mesmo após ele estar em andamento, como mudança de departamento do chamado. (requisito normal)
 RF-4: O sistema deve possuir um prazo(timeout) para o chamado continuar aberto. (requisito normal)
