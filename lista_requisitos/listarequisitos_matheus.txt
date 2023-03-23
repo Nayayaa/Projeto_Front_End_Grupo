@@ -16,6 +16,8 @@ RF-10: O sistema deve classificar cada chamado, como aberto, pendente ou expirad
 RF-11: Não é necessaria a autenticação para a abertura de um chamado. (requisito normal)
 RF-12: A plataforma deve armazenar os dados dos chamados, como nome, numero de cel, departamento(pode ser alterado) ,tecnico. (requisito normal)
 RF-14: Acessibilidade para deficientes visuais. (requisito excitante)
+RF-15: Cargo de administrador com sistema de autenticação com um cadastro restrito para ele. (requisito normal)
+RF-16: Criar usuários como cliente dentro do sistema e classifica-los como cliente, podendo apenas ver seus chamados existentes. (requisito esperado)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 REQUISITOS NÃO FUNCIONAIS
@@ -24,11 +26,6 @@ Disponibilidade:
 DS-1: Quando o servidor ficar indisponível deve haver retorno (timeout). (requisito normal)
 Eficiência:
 EF-1: Deve possuir capacidade para até 7 usuários simultâneos. (requisito normal)
-Integridade:
-IN-1 : Cargo de administrador com sistema de autenticação com um cadastro restrito para ele. (requisito normal)
-IN-2 : Criar usuários como cliente dentro do sistema e classifica-los como cliente, podendo apenas ver seus chamados existentes. (requisito esperado)
-Interoperabilidade:
-IT-1: Usar bpmn para uma melhor visualização do gerenciamento dos processos, diagrama. (requisito normal)
 Manutenibilidade:
 MN-1: Armazenar os dados dos processos numa planilha excel, pois estão acostumados com o processo manual. (requisito normal)
 Portabilidade:
