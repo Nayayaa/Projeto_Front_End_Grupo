@@ -25,7 +25,7 @@ REQUISITOS NÃO FUNCIONAIS
 Disponibilidade:
 DS-1: Quando o servidor ficar indisponível deve haver retorno (timeout). (requisito normal)
 Eficiência:
-EF-1: Deve possuir capacidade para até 7 usuários simultâneos. (requisito normal)
+EF-1: O sistema deve suportar até 7 usuários simultâneos. (requisito normal)
 Manutenibilidade:
 MN-1: Armazenar os dados dos processos numa planilha excel, pois estão acostumados com o processo manual. (requisito normal)
 Portabilidade:
