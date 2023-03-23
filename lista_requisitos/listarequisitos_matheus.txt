@@ -23,7 +23,7 @@ REQUISITOS NÃO FUNCIONAIS
 Disponibilidade:
 DS-1: Quando o servidor ficar indisponível deve haver retorno (timeout). (requisito normal)
 Eficiência:
-EF-1: Deve possuir capacidade para até 7 usuários simultâneos.
+EF-1: Deve possuir capacidade para até 7 usuários simultâneos. (requisito normal)
 Integridade:
 IN-1 : Cargo de administrador com sistema de autenticação com um cadastro restrito para ele. (requisito normal)
 IN-2 : Criar usuários como cliente dentro do sistema e classifica-los como cliente, podendo apenas ver seus chamados existentes. (requisito esperado)
