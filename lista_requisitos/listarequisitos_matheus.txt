@@ -1,4 +1,4 @@
-Objetivo: Criar um sistema ERP que possua dashboards de atendimentos de chamados internos e externos baseado no sistema de tickets separados por departamentos e modulos.
+Missão: Criar um sistema ERP que possua dashboards de atendimentos de chamados internos e externos baseado no sistema de tickets separados por departamentos e modulos.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 REQUISITOS FUNCIONAIS
