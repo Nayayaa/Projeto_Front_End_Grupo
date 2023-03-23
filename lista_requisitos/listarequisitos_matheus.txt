@@ -5,10 +5,10 @@ REQUISITOS FUNCIONAIS
 
 RF-1: O sistema deve definir SLA para cada tipo de chamado. (requisito normal)
 RF-2: O sistema deve apresentar uma área de avaliação do serviço. (requisito normal)
-RF-3: Permitir que o chamado seja alterado mesmo após ele estar em andamento, como mudança de departamento do chamado. (requisito normal)
+RF-3: O sistema deve permitir que o chamado seja alterado mesmo após ele estar em andamento, como mudança de departamento do chamado. (requisito normal)
 RF-4: O sistema deve possuir um prazo(timeout) para o chamado continuar aberto. (requisito normal)
-RF-5: Os chamados podem ser reabertos. (requisito normal)
-RF-6: Cada departamento deve possuir seu próprio dashboard (requisito normal)
+RF-5: O sistema tem que permitir que os chamados possam ser reabertos. (requisito normal)
+RF-6: O sistema deve possuir um dashboard para cada departamento. (requisito normal)
 RF-7: O sistema de possuir uma área para chamados internos para a equipe de ti. (requisito normal)
 RF-8: O sistema deve verificar se o chamado pode ser visualizado pelos diferentes departamentos, interno(restrito) e externo(geral). (requisito normal)
 RF-9: Não possui identidade visual fixa porém a logo é azul, podendo criar paleta de cor. (requisito esperado)
@@ -16,8 +16,8 @@ RF-10: O sistema deve classificar cada chamado, como aberto, pendente ou expirad
 RF-11: Não é necessaria a autenticação para a abertura de um chamado. (requisito normal)
 RF-12: A plataforma deve armazenar os dados dos chamados, como nome, numero de cel, departamento(pode ser alterado) ,tecnico. (requisito normal)
 RF-14: Acessibilidade para deficientes visuais. (requisito excitante)
-RF-15: Cargo de administrador com sistema de autenticação com um cadastro restrito para ele. (requisito normal)
-RF-16: Criar usuários como cliente dentro do sistema e classifica-los como cliente, podendo apenas ver seus chamados existentes. (requisito esperado)
+RF-15: O sisteam deve possuir um cargo de administrador por meio de um sistema de autenticação com um cadastro restrito para ele. (requisito normal)
+RF-16: O sistema deve criar usuários como cliente dentro do sistema e classifica-los como cliente, podendo apenas ver seus chamados existentes. (requisito esperado)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 REQUISITOS NÃO FUNCIONAIS
