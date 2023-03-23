@@ -1,0 +1,19 @@
+		    Descrição do projeto
+	OBJETIVO:
+	    Criar um dashboard baseado em tickets para colaboradores e clientes, separados por sessôes e módulos. 
+
+    REQUISITOS FUNCIONAIS:
+
+        1-> O sistema deve possuir uma área para cliente e outra para colaborador.
+        2-> A área de clientes deve ser restrita a abertura de tickets.
+        3-> a área do colaborador deve haver duas sessões, uma para abertura de tickets e outra para a resolução dos tickets.
+        4-> Na área do cliente deve ter sessões que indiquem ao mesmo o departamento onde ticket sera visualizado.
+        5-> Na área do resolvedor deve haver filas atreladas a departamentos. onde, osmenbros desse departamentos vão poder asssumir esses tickets.
+        6-> O sistema deve definir um prazo limite para resolução dos tickets.
+        7-> Deve haver uma linha do tempo indicando em que fase de resolução o tickt está (Na área de abertura de tickets).
+        8-> deve haver uma opção de encaminhamento de ticket para fila de outro departamento.
+        9-> Deve haver uma opção para clonagem de tickets (restrita a área de resolvedor).
+        10-> O sistema deve automáticamente retirar das respectivas listas os tickets resulvidos. 
+
+
+
