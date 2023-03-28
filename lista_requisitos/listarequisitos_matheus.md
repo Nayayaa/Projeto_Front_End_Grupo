@@ -28,7 +28,3 @@ Criar um sistema ERP web que possua dashboards de atendimentos de chamados inter
     -   DS-1: Quando o servidor ficar indisponível deve haver retorno (timeout). (requisito normal)
 -   Eficiência:
     -   EF-1: O sistema deve suportar até 7 usuários simultâneos. (requisito normal)
--   Manutenibilidade:
-    -   MN-1: Armazenar os dados dos processos numa planilha Excel, pois estão acostumados com o processo manual. (requisito normal)
--   Portabilidade:
-    -   PR-1: Usar alguma biblioteca para ser responsivo para mobile. (requisito esperado)
