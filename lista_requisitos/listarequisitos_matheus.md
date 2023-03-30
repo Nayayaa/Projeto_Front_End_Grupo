@@ -28,3 +28,15 @@ Sistema ERP web que possua dashboards de atendimentos de chamados internos e ext
     -   DS-1: Quando o servidor ficar indisponível deve haver retorno (timeout). (requisito normal)
 -   Eficiência:
     -   EF-1: O sistema deve suportar até 7 usuários simultâneos. (requisito normal)
+
+## 5W2H
+
+- Quem: Qualquer usuário que deseja abrir um chamado, tanto funcionários quanto clientes da empresa.
+- O que: Sistema Web para realização de chamados internos e externos.
+- Quando: O projeto deverá ser finalizado até o fim do 1° semestre de 2023.
+- Onde: Sistema implementado na Web.
+- Por que: Necessidade de gerenciamento de atendimentos.
+- Quanto: Sem orçamento determinado no momento.
+- Como: Desenvolvido com as linguagens HTML, CSS e JavaScript.
+- Para que: Gerenciamento de demanda por meio de chamados internos e externos.
+
