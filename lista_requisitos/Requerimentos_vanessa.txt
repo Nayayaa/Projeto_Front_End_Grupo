@@ -18,3 +18,4 @@ Requisitos não funcionais
 3 -> Cadastro exclusivo para o administrador do sistema.
 4 -> Os usuários da clientela, serão expecificamente registrados como clientes. 
  
+testando 1, 2, 3
