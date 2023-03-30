@@ -17,7 +17,7 @@ Sistema ERP web que possua dashboards de atendimentos de chamados internos e ext
 -   RF-9: O sistema não possui identidade visual fixa, porém a logo é azul, podendo criar paleta de cor. (requisito esperado)
 -   RF-10: O sistema deve classificar cada chamado, como aberto, pendente ou expirado. (requisito normal)
 -   RF-11: Não deve ser necessária a autenticação para a abertura de um chamado. (requisito normal)
--   RF-12: O sistema deve armazenar os dados dos chamados, como nome, número de celular, departamento (pode ser alterado), técnico. (requisito normal)
+-   RF-12: O sistema deve armazenar os dados dos chamados: nome, número de celular, departamento (pode ser alterado), técnico. (requisito normal)
 -   RF-14: O sistema deve ter acessibilidade para deficientes visuais. (requisito excitante)
 -   RF-15: O sistema deve possuir um cargo de administrador por meio de um sistema de autenticação com um cadastro restrito para ele. (requisito normal)
 -   RF-16: O sistema deve criar usuários como cliente dentro do sistema e classificá-los como cliente, podendo apenas ver seus chamados existentes. (requisito esperado)
