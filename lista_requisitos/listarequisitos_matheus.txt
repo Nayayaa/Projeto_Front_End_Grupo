@@ -31,3 +31,4 @@ MN-1: Armazenar os dados dos processos numa planilha excel, pois estão acostuma
 Portabilidade:
 PR-1: Usar alguma biblioteca para ser responsivo para mobile. (requisito esperado)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5W2H
