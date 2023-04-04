@@ -1,4 +1,3 @@
-Matéria: Projeto Front-end.
 Objetivo do projeto: Realizar um dashboard de atendimento interno ao cliente para realizar chamados no sistema para os devidos setores da empresa.
 
 Requerimentos Funcionais
