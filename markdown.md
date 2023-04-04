@@ -28,7 +28,7 @@ Sistema ERP web que possua dashboards de atendimentos de chamados internos e ext
 -   Eficiência:
     -   EF-1: O sistema deve suportar até 7 usuários simultâneos. (requisito normal)
 -   Flexibilidade:
-    -   IF-1: O sistema não possui identidade visual fixa, porém a logo é azul, podendo criar paleta de cor. (requisito esperado)
+    -   FL-1: O sistema não possui identidade visual fixa, porém a logo é azul, podendo criar paleta de cor. (requisito esperado)
 
 # 5W2H
 
