@@ -11,7 +11,6 @@
 1. Cada departamento deve possuir seu próprio dashboard (***requisito normal***)
 1. O sistema de possuir uma área para chamados internos para a equipe de TI. (***requisito normal***)
 1. O sistema deve verificar se o chamado pode ser visualizado pelos diferentes departamentos, interno(restrito) e externo (**geral**). (***requisito normal***)
-1. Não possui identidade visual fixa porém a logo é azul, podendo criar paleta de cor. (***requisito esperado***)
 1. O sistema deve classificar cada chamado, como aberto, pendente ou expirado. (***requisito normal***)
 1. Não é necessaria a autenticação para a abertura de um chamado. (***requisito normal***)
 1. A plataforma deve armazenar os dados dos chamados, como nome, numero de cel, departamento (**pode ser alterado**) ,tecnico. (***requisito normal***)
@@ -23,6 +22,7 @@
 1. Quando o servidor ficar indisponível deve haver retorno (**timeout**). (***requisito normal***)
 Eficiência:
 1. Deve possuir capacidade para até 7 usuários simultâneos.
+1. Não possui identidade visual fixa porém a logo é azul, podendo criar paleta de cor. (***requisito esperado***)
 ### Integridade:
 1. Cargo de administrador com sistema de autenticação com um cadastro restrito para ele. (***requisito normal***)
 1. Criar usuários como cliente dentro do sistema e classifica-los como cliente, podendo apenas ver seus chamados existentes. (***requisito esperado***)
