@@ -1,0 +1,16 @@
+nao possui um numero ideal de pessoas simultaneos, nao implementar fila de espera.
+metricas adm - chat gpt
+sistema de chamados - titulo, descrição - pegar login do usuario - para a equipe -> status do chamado, categorizar por departamento, responsavel pelo chamado.
+pessoas com autorização da empresa podem abrir chamados.
+somente funcionarios teriam conta dentro da ERP, cliente nao abre chamados.
+departamentos - comercial , operação , tecnologia.
+acesso dos funcionarios - nome, email corporativo, senha (obrigatorios), (chave artificial?), area para selecionar departamento (permissoes).
+usuario maximo (adm) tem permissao para abrir chamados visualizar suas informaçõs. 
+sem restrição de horario.
+#ordem de urgencia de chamados -> critico,alto,medio,baixo.#
+dependendo das permissoes -> diferentes 'telas'.(dashboards)
+(benchmark)
+deve ser responsivo (mobile first!) - não é aplicativo e sim site mobile.
+google chrome permite simular o uso do site e mostra as principais dimensoes de tela no mercado.
+
+
