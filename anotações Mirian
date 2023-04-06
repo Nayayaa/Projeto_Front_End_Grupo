@@ -1,0 +1,17 @@
+chamados tem titulos 
+resumo que propio usuario escreve
+descrição
+usuario que abriu chamados consegue colocar (titulo/ descrição)
+categoria desse chamados( qual local foi direcionado ) e quem e o responsavel
+quem abriria o chamados: qualquer pessoa que tem autorização na empresa
+funcionarios teria na conta erp e cliente não teria acesso a essas informações
+tipos de chamados em questoes de departamentos: tecnologia cormeciada por operação "cargo de RH", 
+oq usariam para criar a conta: esquema de banco de dado- nome/e-mail coorperativo/senha-como obrigatorio dica-"existe mais colunas para colocar" existem input 
+obrigatorios/opcionais-usuario não vai responder
+não se preocupar como vai ser feito a validações 
+como o sistema vai ficar disponivel: 24horas mas não se preocupar com questão de horario e mais para olhar como funciona
+depende da categoria-ti-pridshum 30minutos agendados 48 horas priorizar o chamado usuario que vai se preocupar
+quais informações para o loguin: e-mail cooperativo/senha
+aparecia do dashboard: ter criatividade para o designer
+pesquisar os principais erp q tem na internet 
+sistema de chamados mobile/web vai ser responsivel: o que gera mais engajamento mobile -utiliza fisolofia mobile first
